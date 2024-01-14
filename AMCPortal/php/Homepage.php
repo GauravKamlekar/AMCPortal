@@ -12,7 +12,7 @@ if (! $con) {
 }
 $userID=$_SESSION["userID"];
 $query = "SELECT Session_ID";
-
+//testtext
 ?>
 
 
