@@ -1,0 +1,44 @@
+   body {
+   	background-color: #2d2d2d;
+   }
+
+   .bg-image-blk {
+   	background-image: url("http://localhost/AMCPortal/images/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg");
+   	background-size: cover;
+   	background-position: center;
+   	height: 1200px;
+   	color: white;
+   }
+
+   .container {
+   	padding-top: 50px;
+   }
+
+   .label {
+   	color: white;
+   }
+
+   th,
+   td {
+   	color: white;
+   }
+
+   .btn-primary {
+   	background-color: #007bff;
+   	border-color: #007bff;
+   }
+
+   .btn-primary:hover {
+   	background-color: #0056b3;
+   	border-color: #0056b3;
+   }
+
+   .table {
+   	background-color: #343a40;
+   	color: white;
+   }
+
+   .table th,
+   .table td {
+   	border-color: #454d55;
+   }

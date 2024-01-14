@@ -1,0 +1,10 @@
+.navbar-custom{
+    background-color: #191A19;
+}
+
+.logotext {
+    color: red;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px; /* You can adjust the font size as needed */
+    font-weight: lighter; /* You can adjust the font weight as needed */
+}
